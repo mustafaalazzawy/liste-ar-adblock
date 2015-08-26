@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Redirect: https://easylist-downloads.adblockplus.org/Liste_AR.txt
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR
 ! Title: Liste AR
